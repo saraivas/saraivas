@@ -3,6 +3,7 @@
 - 🔭 I'm currently working with R on a scholarship
 - 🌱 I’m currently learning front-end
 - 📫 How to reach me: felipesaraivadossantos@gmail.com
+- access my portfolio at https://saraivas.github.io
 
 <div align="center">
   <a href="https://github.com/saraivas">
