@@ -2,7 +2,7 @@
  
 Full-stack Software Engineer with ~3 years of experience building multi-tenant SaaS platforms and AI-powered features for enterprise clients in the environmental risk & compliance space.
  
-- 🔭 Currently building multi-tenant architecture, auth systems (FastAPI + Keycloak), and AI-driven document processing pipelines (Azure OpenAI, Document Intelligence) at an enterprise environmental data platform serving clients like BHP, Bayer, and DuPont
+- 🔭 Currently building multi-tenant architecture, auth systems (FastAPI + Keycloak), and AI-driven document processing pipelines (Azure OpenAI, Document Intelligence) at an enterprise environmental data platform serving enterprise industrial clients
 - 🧠 Background in entity linking / RAG pipelines (pgvector, sentence-transformers, embeddings) for matching extracted regulatory data to canonical records
 - 🎓 Computer Engineering (UFPel) — former CNPq research fellow, co-developed IDFGeo, a public hydrological web tool
 - 🌍 Open to remote opportunities (contract or full-time) — currently based in Brazil
